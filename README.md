@@ -6,6 +6,7 @@
 * An api key pair for binance
 
 ### Install dependencies 
+
 ```shell
 pipx install pipenv
 pipenv install --dev
@@ -16,7 +17,7 @@ pipenv install --dev
 * create a file `.env` with the example from `.env.example`
 * run the program:
     ```shell
-    pipenv run python main.pyy
+    ./detectpd -h
     ```
 * the output will look similar to:
 
